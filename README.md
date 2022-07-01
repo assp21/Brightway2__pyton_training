@@ -21,3 +21,6 @@ There are some tutorials on Python listed here: https://docs.brightwaylca.org/in
 We recommend using ipython or jupyter notebooks instead of the plain python prompt - note that you will have to re-activate your bw2 environment in each new command/terminal window.
 
 Spend some time browsing through the introduction and the example notebooks.
+
+
+https://github.com/PoutineAndRosti/Brightway-Seminar-2017.git
